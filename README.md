@@ -1,4 +1,4 @@
 # webpack-hot-reload-client
 
 
-a custom hot module replacement client that using webpack-hot-middleware custom-events
+a custom hot module replacement client that use webpack-hot-middleware custom-events to fire up the reload events manualy
